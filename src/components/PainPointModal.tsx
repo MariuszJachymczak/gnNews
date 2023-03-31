@@ -21,7 +21,7 @@ function GnModal() {
           sposób. Dopracowania wymaga też stylizowanie które jest zrobione w
           bardo podstawowy sposób. Logika w kilku miejscach równiez musi być
           dopracowana. Niestety, ze wzgledu na obowiązki służbowe miałem mało
-          czasu na dopracowanie projektu.
+          czasu na dopracowanie.
         </Modal.Body>
         <Modal.Footer>
           <Button variant="outline-info" onClick={handleClose}>
